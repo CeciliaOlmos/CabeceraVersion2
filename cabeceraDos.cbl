@@ -5,7 +5,7 @@
       * Tectonics: cobc
       ******************************************************************
        IDENTIFICATION DIVISION.
-       PROGRAM-ID. YOUR-PROGRAM-NAME.
+       PROGRAM-ID. CECILIA_OLMOS.
        ENVIRONMENT DIVISION.
        CONFIGURATION SECTION. SPECIAL-NAMES. DECIMAL-POINT IS COMMA.
        INPUT-OUTPUT SECTION.
@@ -192,4 +192,4 @@
        1300-CERRAR-ACT.
            DISPLAY guarda2.
            CLOSE Trans-Act.
-       END PROGRAM YOUR-PROGRAM-NAME.
+       END PROGRAM CECILIA-OLMOS.
